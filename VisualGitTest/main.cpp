@@ -10,4 +10,5 @@ void main()
 
 	printf(" Main과 1번 분기 병합");
 
+	printf("난 중간분기");
 }
